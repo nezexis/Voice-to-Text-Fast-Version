@@ -1,0 +1,6 @@
+{
+  "name": "Голосовой ввод: Архитектура и движки",
+  "description": "Техническое исследование, сравнительный анализ и интерактивный симулятор архитектуры сверхбыстрого потокового голосового ввода для приложений.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
